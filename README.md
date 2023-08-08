@@ -22,6 +22,6 @@ Contributions to this project are welcome! If you have any suggestions for UI im
 If you have any questions or need further assistance, feel free to contact the project maintainer:
 
 - Your Name: jgabhi9910@gmail.com
-- Project Link: [GitHub][(https://github.com/your-username/simple-chat-app-ui-flutte](https://github.com/abhijg/Chat-App-UI)https://github.com/abhijg/Chat-App-UIr)
+- Project Link: [GitHub](https://github.com/abhijg/Chat-App-UIr)
 
 ---
