@@ -1,7 +1,7 @@
 # Simple Flutter Chat App UI
 
-![App Screenshot 1](./assets./image/ss1(1))
-![App Screenshot 2](./assets./image/ss1(2))
+![App Screenshot 1](./assets/image/ss1(1))
+![App Screenshot 2](./assets/image/ss1(2))
 
 
 This is a simple UI design for a chat app developed in Flutter. Please note that this repository only contains the frontend components and does not have any backend functionality. It provides a user interface for sending and receiving text messages.
